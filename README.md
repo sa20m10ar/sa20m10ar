@@ -1,7 +1,9 @@
 ### Hi there 👋 
-<p width="400">I am Samar Farag 👩 From Egypt . <br>
-A software engineer 💻 graduated from Faculty of Engineering "Computers and Systems Department" .</p>
-<img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/ID%20Card-rafiki.png" width="200" height="200">
+I am Samar Farag 👩 From Egypt . <br>
+A software engineer 💻 graduated from Faculty of Engineering <br>"Computers and Systems Department" .
+<img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/Version%20control-pana.png" width="400">
+
+
 
 <!--
 **sa20m10ar/sa20m10ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
