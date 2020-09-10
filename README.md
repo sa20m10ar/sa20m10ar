@@ -1,8 +1,7 @@
-### Hi there 👋  <img align='right' src="https://media.giphy.com/media/XF3zvIcpuoKNHHv9YY/giphy.gif" width="200">
+### Hi there 👋  
 
 
-
-  <img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/Version%20control-pana.png" width="350" height="350">
+  <img align='right' src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="350" height="350">
 
 
 <div width="200" height="300">I am Samar Farag 👩 From Egypt . 
