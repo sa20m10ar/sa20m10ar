@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://gph.is/st/my7OB1M" width="200">
+### Hi there 👋 <img src="https://media.giphy.com/media/XF3zvIcpuoKNHHv9YY/giphy.gif" width="200">
 
 <div width="300" height="300">I am Samar Farag 👩 From Egypt . 
 graduated from Faculty of Engineering "Computers and Systems Department"  💻.</div>
