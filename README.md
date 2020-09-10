@@ -10,8 +10,7 @@ graduated from Faculty of Engineering "Computers and Systems Department"  💻.<
 
 <div width="200" height="200">I'm a software engineer who is passionate about Mobile ecosystem. Currently I enjoy working with Flutter Framework from Google for Building Android , ios and web apps.</div>
 <br>
-<br>
-<br>
+
 
 You can find me at :</br>
 [![Twitter: sa20m10ar](https://img.shields.io/twitter/follow/sa20m10ar?style=social)](https://twitter.com/sa20m10ar)
