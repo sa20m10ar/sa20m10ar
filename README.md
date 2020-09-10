@@ -4,8 +4,11 @@ graduated from Faculty of Engineering "Computers and Systems Department"  💻.<
 <img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/Version%20control-pana.png" width="400">
 <br>
 
-<div width="300" height="300">I'm a software engineer who is passionate about Mobile ecosystem. Currently I enjoy working with Flutter Framework from Google for Building Android , ios and web apps.</div>
+<div width="300" height="200">I'm a software engineer who is passionate about Mobile ecosystem. Currently I enjoy working with Flutter Framework from Google for Building Android , ios and web apps.</div>
 <br>
+<br>
+<br>
+
 
 [![Twitter: sa20m10ar](https://img.shields.io/twitter/follow/sa20m10ar?style=social)](https://twitter.com/sa20m10ar)
 [![Linkedin: Samar-Farag](https://img.shields.io/badge/-SamarFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samar-farag/)](https://www.linkedin.com/in/samar-farag/)
