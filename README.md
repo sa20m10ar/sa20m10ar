@@ -19,7 +19,6 @@ graduated from Faculty of Engineering "Computers and Systems Department"  💻.<
 [![GitHub sa20m10ar](https://img.shields.io/github/followers/sa20m10ar?label=follow&style=social)](https://github.com/sa20m10ar)
 
 
-  <img align='right' src="https://media.giphy.com/media/IeS1u2UGBwrF3n7xST/giphy.gif" width="200" height="200">
 
 you can find my latest repos down below ⬇️⬇️⬇️⬇️ 
 
