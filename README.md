@@ -17,7 +17,7 @@ graduated from Faculty of Engineering "Computers and Systems Department"  💻.<
 
 
 
-you can find my latest repos down below ⬇️⬇️⬇️⬇️ <img align='right' src="https://media.giphy.com/media/2Wg8MvTPT87YoFZKOJ/giphy.gif" width="200">
+you can find my latest repos down below ⬇️⬇️⬇️⬇️ <img align='right' src="https://media.giphy.com/media/IeS1u2UGBwrF3n7xST/giphy.gif" width="200" height="200">
 
 
 <!--
