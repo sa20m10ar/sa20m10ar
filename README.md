@@ -1,9 +1,8 @@
-### Hi there 👋 
+### Hi there 👋  <img align='right' src="https://media.giphy.com/media/XF3zvIcpuoKNHHv9YY/giphy.gif" width="200">
 
 
-  <img align='right' src="https://media.giphy.com/media/XF3zvIcpuoKNHHv9YY/giphy.gif" width="200"> <br>
-  <img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/Version%20control-pana.png" width="300" height="200"><br>
-  <img align='right' src="https://media.giphy.com/media/IeS1u2UGBwrF3n7xST/giphy.gif" width="200" height="200"><br>
+
+  <img align='right' src="https://github.com/sa20m10ar/sa20m10ar/blob/master/Version%20control-pana.png" width="350" height="350">
 
 
 <div width="200" height="300">I am Samar Farag 👩 From Egypt . 
@@ -23,6 +22,8 @@ graduated from Faculty of Engineering "Computers and Systems Department"  💻.<
 
 
 you can find my latest repos down below ⬇️⬇️⬇️⬇️ 
+  <img align='right' src="https://media.giphy.com/media/IeS1u2UGBwrF3n7xST/giphy.gif" width="200" height="200">
+
 
 
 <!--
