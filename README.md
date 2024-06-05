@@ -8,7 +8,7 @@
 graduated from Faculty of Engineering "Computers and Systems Department"  💻.</div>
 <br>
 
-<div width="200" height="200">I'm a software engineer who is passionate about Mobile ecosystem. Currently I enjoy working with Flutter Framework from Google for Building Android , ios and web apps.</div>
+<div width="200" height="200">I'm a software engineer who is passionate about Web ecosystem. Currently I enjoy working with HTML , CSS and Javascript. </div>
 <br>
 
 
