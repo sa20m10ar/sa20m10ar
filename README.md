@@ -17,10 +17,14 @@ You can find me at :</br>
 [![Linkedin: Samar-Farag](https://img.shields.io/badge/-SamarFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samar-farag/)](https://www.linkedin.com/in/samar-farag/)
 [![GitHub sa20m10ar](https://img.shields.io/github/followers/sa20m10ar?label=follow&style=social)](https://github.com/sa20m10ar)
 
-Technologies :</br>
+<h4>Tools & Technologies</h4> :</br>
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"></br>
+  <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+  <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
+
 
 
 
