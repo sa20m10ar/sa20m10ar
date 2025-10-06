@@ -17,6 +17,7 @@ You can find me at :</br>
 [![Twitter: sa20m10ar](https://img.shields.io/twitter/follow/sa20m10ar?style=social)](https://twitter.com/sa20m10ar)
 [![Linkedin: Samar-Farag](https://img.shields.io/badge/-SamarFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samar-farag/)](https://www.linkedin.com/in/samar-farag/)
 [![GitHub sa20m10ar](https://img.shields.io/github/followers/sa20m10ar?label=follow&style=social)](https://github.com/sa20m10ar)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smar.frag@gmail.com.com)](mailto:smar.frag@gmail.com)
 
 Tools & Technologies :</br>
 <p align="left">
